@@ -1,4 +1,4 @@
-![preview](images\desktop-preview.jpg)
+![preview](images/desktop-preview.jpg)
 
 # WELCOME!!
 
@@ -31,15 +31,15 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop display](\screenshots\four-card-feature-sc-desktop.png) 
-![ipad display](\screenshots\four-card-feature-sc-iospad.png) 
-![ios11 display](\screenshots\four-card-feature-ios11.png)
+![desktop display](screenshots\four-card-feature-sc-desktop.png) 
+![ipad display](screenshots\four-card-feature-sc-iospad.png) 
+![ios11 display](screenshots\four-card-feature-ios11.png)
 
 
 ### Links
 
-[Add solution URL here](https://your-solution-url.com)
-[Add live site URL here](https://your-live-site-url.com)
+[Solution-URL](https://www.frontendmentor.io/solutions/css-grid-responsive-design-0xaev14R8P)
+[Live-site-URL](https://markorrente01.github.io/four-card-feature-section/)
 
 ## My process
 
@@ -74,7 +74,7 @@ Will work on more frontend practice challenges and will use grid more often.
 
 - [learn CSS Grid](https://www.w3schools.com/css/css_grid.asp) - this helps you learn more about css grid. 
 - [chatgpt](https://chatgpt.com/) - gives a helping hand when you get stuck in the project based on how well rendered you prompt is.
-- [web-testing for different devices](https://www.lambdatest.com/)
+- [LT browser](https://www.lambdatest.com/) - this browser helps in testing of webpages on different real world devices.
 
 ## Author
 
