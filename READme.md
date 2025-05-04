@@ -31,9 +31,9 @@ Users should be able to:
 
 ### Screenshot
 
-![desktop display](screenshots\four-card-feature-sc-desktop.png) 
-![ipad display](screenshots\four-card-feature-sc-iospad.png) 
-![ios11 display](screenshots\four-card-feature-ios11.png)
+![desktop display](screenshots/four-card-feature-sc-desktop.png) 
+![ipad display](screenshots/four-card-feature-sc-iospad.png) 
+![ios11 display](screenshots/four-card-feature-ios11.png)
 
 
 ### Links
